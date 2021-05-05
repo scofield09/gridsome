@@ -1,0 +1,9 @@
+{
+    "apps": [
+      {
+        "name": "gridsome",
+        "script": "npm",
+        "args": "start"
+      }
+    ]
+  }
